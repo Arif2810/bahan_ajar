@@ -1,0 +1,30 @@
+p{
+  color: red;
+}
+
+#hijau{
+  color: green;
+}
+
+/* #kuning{
+  color: yellow;
+} */
+
+a{
+  color: black;
+  text-decoration: none;
+}
+
+.pink{
+  background-color: pink;
+  padding: 10px;
+}
+
+.text-white{
+  color: white;
+}
+
+.bg-teal{
+  background-color: teal;
+}
+
